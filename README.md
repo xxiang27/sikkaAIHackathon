@@ -6,3 +6,15 @@
 
 All other notebooks are code for things we tried but did not make it into the final submission. 
 
+### To run notebooks:
+
+Created using Python 3.8
+
+Required Libraries for prophet_final.ipynb:
+- numpy 
+- pandas
+- seaborn 
+- prophet 
+
+
+
